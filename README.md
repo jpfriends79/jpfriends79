@@ -2,15 +2,28 @@
 
 <!--
 **jpfriends79/jpfriends79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+## You can connect with me via LinkedIn, X.com
+
+Pronouns associated with me are **He / His / Him**.
+I'm a ***non-technical collaborator***, currently working as an **Enterprise Architect**. Most of my career has revolved around **Business Architecture/Consulting** through SAP Implementation/Rollout Projects and Service Delivery. With over two decades of experience, I am a seasoned IT leader known for orchestrating the full enterprise application lifecycle. My passion lies in **turning business visions into reality**, aligning IT strategies with corporate objectives, and delivering scalable, sustainable solutions that drive growth and profitability.
+
+**Core Competencies:**  
+**Industry Specialisation:** My extensive knowledge of Industrial Manufacturing (Discrete/Process), Consumer Products, Aerospace MRO, Automotive, and Trading/Sales has been instrumental in developing scalable, sustainable solutions across these industries.  
+
+**Broad Business Expertise:** Deep experience in pricing and controlling, customer experience (CX/CRM), eCommerce, order management (primary and secondary sales), distribution and; logistics, aftermarket sales and; services, supply chain management (SCM), international trade, master data governance (MDG/MDM), record-to-report processes, third party application integration with SAP, EDI (procurement, sales, distribution, 3PL, inventory), SAP ALE/IDocs, UX/UI, analytics, and business process improvement/automation.
+
+**Strategic IT Alignment:** Proven expertise in connecting business goals with technology execution, ensuring IT initiatives drive revenue, sustainability, and efficiency by collaborating closely with global stakeholders.  
+
+**Cross-Functional Integration:** A track record of seamlessly integrating technologies across diverse programs and business functions within service-oriented architectures, ensuring cohesive and optimised solutions.  
+
+**IT Roles:**  I've successfully led and worked with teams, projects, and service delivery as an Enterprise Architect, People Manager, Program/Project Manager, COE/COC Lead, Services Delivery Manager, Business Function Integration Lead, Cross-Module Lead, and Functional/Business Consultant/Analyst.
+
+**Certifications and Methodologies:**  TOGAF® 9.2, COBIT® 5, SAFe® 6 Agilist, ITIL®, SAP® Design Thinking (Black Belt), Lean Six Sigma (Green Belt), PRINCE2 Agile, and SAP Activate. These certifications and methodologies have not only enriched my knowledge but also equipped me with the skills to lead and deliver successful IT projects and assignments.
+
+Beyond the enterprise, I've been an active voice in the global SAP Community, contributing to thought leadership, mentorship, and knowledge sharing for over a decade. **SAP Mentor Alumni** (2016–2022) — influencing SAP's innovation roadmap; Topic Leader (2009, 2010, 2012); Topic Moderator (2012–2022).
+
+I can help with **Product Management**, particularly for **SAP S/4HANA**. And I can help you with **Financial Literacy and Investment Planning**, free of cost.
+
+I'm currently learning **Cloud Computing** and eager to explore, learn and scale on **AI**
