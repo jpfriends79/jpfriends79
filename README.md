@@ -7,7 +7,7 @@
 ## You can connect with me via LinkedIn, X.com
 
 Pronouns associated with me are **He / His / Him**.
-I'm a ***non-technical collaborator***, currently working as an **Enterprise Architect**. Most of my career has revolved around **Business Architecture/Consulting** through SAP Implementation/Rollout Projects and Service Delivery. With over two decades of experience, I am a seasoned IT leader known for orchestrating the full enterprise application lifecycle. My passion lies in **turning business visions into reality**, aligning IT strategies with corporate objectives, and delivering scalable, sustainable solutions that drive growth and profitability.
+I'm a ***non-technical collaborator***, currently working as an **Enterprise Architect**. Most of my career has revolved around **Business Architecture/Consulting** through SAP Implementation/Rollout Projects and Service Delivery. With over two decades of experience, I lead IT and manage the full enterprise application lifecycle. My passion lies in **turning business visions into reality**, aligning IT strategies with corporate objectives, and delivering scalable, sustainable solutions that drive growth and profitability.
 
 **Core Competencies:**  
 **Industry Specialisation:** My extensive knowledge of Industrial Manufacturing (Discrete/Process), Consumer Products, Aerospace MRO, Automotive, and Trading/Sales has been instrumental in developing scalable, sustainable solutions across these industries.  
@@ -22,8 +22,8 @@ I'm a ***non-technical collaborator***, currently working as an **Enterprise Arc
 
 **Certifications and Methodologies:**  TOGAF® 9.2, COBIT® 5, SAFe® 6 Agilist, ITIL®, SAP® Design Thinking (Black Belt), Lean Six Sigma (Green Belt), PRINCE2 Agile, and SAP Activate. These certifications and methodologies have not only enriched my knowledge but also equipped me with the skills to lead and deliver successful IT projects and assignments.
 
-Beyond the enterprise, I've been an active voice in the global SAP Community, contributing to thought leadership, mentorship, and knowledge sharing for over a decade. **SAP Mentor Alumni** (2016–2022) — influencing SAP's innovation roadmap; Topic Leader (2009, 2010, 2012); Topic Moderator (2012–2022).
+Beyond the enterprise, I've been an active voice in the global SAP Community, contributing to thought leadership, mentorship, and knowledge sharing for over a decade. **SAP Mentor Alumni** (2016–2022) - influencing SAP's innovation roadmap; Topic Leader (2009, 2010, 2012); Topic Moderator (2012–2022).
 
-I can help with **Product Management**, particularly for **SAP S/4HANA**. And I can help you with **Financial Literacy and Investment Planning**, free of cost.
+I can help with **Product Management**, particularly for **SAP S/4HANA**. I can help you with Financial Literacy and Investment Planning at no cost.
 
 I'm currently learning **Cloud Computing** and eager to explore, learn and scale on **AI**
